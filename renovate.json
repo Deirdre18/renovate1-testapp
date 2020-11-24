@@ -17,15 +17,4 @@
     "before 5am every weekday",
     "every weekend"
   ]
-  
-   "packageRules": [
-    {
-      "updateTypes": [
-        "minor",
-        "patch"
-      ],
-      "automerge": true
-    }
-  ]  
-  
 }
