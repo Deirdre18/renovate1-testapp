@@ -1,3 +1,7 @@
+# Followed tutorial on setting up continuous integration for automatic testing and updating of updates.
+
+https://www.freecodecamp.org/news/update-dependencies-automatically-with-github-actions-and-renovate/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
